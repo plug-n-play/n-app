@@ -1,0 +1,5 @@
+.vscode
+.python_packages
+__pycache__
+.venv
+.azure
